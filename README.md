@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/Augurus/Algorithms-Practice)
-  - [Second Project](https://github.com/Augurus/Ad-projec-once-build)
+  - [Active Directory Home Lab](https://github.com/Augurus/ActiveDirectoryLab)
+  - [Second Project](https://github.com/Augurus/ActiveDirectoryLab)
 
 
 <h2>📺 Popular YouTube Videos</h2>
